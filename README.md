@@ -19,21 +19,23 @@ RAG BOT is a document processing application that allows users to upload PDF fil
 
 ### Install Required Packages
 Before running the application, install the necessary Python packages by executing:
+pip install -r requirements.txt
 
 
 ## Running Locally
 
 1. **Clone the Repository**  
    Clone this repository to your local machine:
+   git clone https://github.com/yourusername/RAG-BOT.git cd RAG-BOT
 
-2. **Set Up API Key**  
+3. **Set Up API Key**  
 Create a `credentials.ini` file in the project root directory with the following content:
 Replace `YOUR_GOOGLE_API_KEY` with your actual Google API key.
 
-3. **Run the Application**  
+4. **Run the Application**  
 Start the application using Streamlit:
 
-4. **Access the Application**  
+5. **Access the Application**  
 Open your web browser and go to `http://localhost:8501` to access the application.
 
 ## Running with Docker
