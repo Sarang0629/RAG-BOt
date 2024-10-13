@@ -60,3 +60,5 @@ Open your web browser and go to `http://localhost:8501` to access the applicatio
 - The application leverages a Generative AI model to generate responses based on the uploaded documents.
 
 
+Google Colab Notebook Link- https://colab.research.google.com/drive/1d0u445eX76esgjRJAikjJ5jUBjOAlpMD?usp=sharing
+
